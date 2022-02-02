@@ -1,5 +1,6 @@
 import cv2
 
+
 path ="/home/senai/tiago-projects/opencv-tutorials/opencv-course/Resources"
 
 capture = cv2.VideoCapture(path + "/Videos/dog.mp4")
